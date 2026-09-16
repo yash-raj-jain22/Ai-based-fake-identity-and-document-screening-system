@@ -1,0 +1,3 @@
+@echo off
+echo Starting Node Server...
+npm run dev
